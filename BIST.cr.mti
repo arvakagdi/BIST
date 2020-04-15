@@ -1,0 +1,7 @@
+{C:/Users/DELL/OneDrive/SVT/Testing/Lab 3/ALU.v} {1 {vlog -work work -stats=none {C:/Users/DELL/OneDrive/SVT/Testing/Lab 3/ALU.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+
+} {} {}} {C:/Users/DELL/OneDrive/SVT/Testing/Lab 3/ALU_tb.v} {1 {vlog -work work -stats=none {C:/Users/DELL/OneDrive/SVT/Testing/Lab 3/ALU_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+
+} {} {}}
